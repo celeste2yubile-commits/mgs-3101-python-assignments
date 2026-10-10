@@ -1,0 +1,24 @@
+Coffee Shop Sales Analysis - Astoria
+
+This analysis focused on the Astoria location.
+
+Key Findings:
+- 53,703 drinks were sold.
+- 7,496 pastries were sold.
+- Drink revenue was $157,553.96.
+- Pastry revenue was $26,578.71.
+- Total revenue was $184,132.67.
+
+Recommendation 1:
+Continue promoting coffee and tea because drinks generate most of the revenue.
+
+Recommendation 2:
+Offer drink-and-pastry bundle promotions to increase pastry sales.
+
+Recommendation 3:
+Focus marketing efforts on top-selling beverages because they drive the majority of sales.
+
+Questions:
+1. Should drinking chocolate be classified as a drink?
+2. Should all bakery items be counted as pastries?
+3. Would comparing all three locations provide better recommendations?
